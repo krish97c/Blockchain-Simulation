@@ -1,0 +1,5 @@
+streamlit
+bcrypt
+graphviz
+pandas
+requests
