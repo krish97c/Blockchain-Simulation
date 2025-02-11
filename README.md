@@ -39,4 +39,11 @@ Now visit http://localhost:8501 to access the app
 ├── Dockerfile           # Dockerfile for containerization
 ├── requirements.txt     # Python dependencies
 └── README.md            # Project documentation
-
+🧠 Algorithms & Technologies Used:
+🔹 SHA-256 Hashing – Used to link blocks securely in the blockchain.
+🔹 Proof-of-Work (PoW) Algorithm – Implements computational mining for block validation.
+🔹 Dynamic Difficulty Adjustment – Adjusts mining difficulty based on block time.
+🔹 Bcrypt Password Hashing – Secure user authentication.
+🔹 Tamper Detection Algorithm – Recomputes and verifies block hashes.
+🔹 Graphviz Visualization – Provides an interactive blockchain explorer.
+🔹 Dockerized System – Runs in isolated, portable containers for scalability.
